@@ -5,7 +5,7 @@
 #include <numeric>   
 #include <cmath>     
 
-const int FE_WINDOW_SIZE = 50; 
+const int FE_WINDOW_SIZE = 10; 
 
 class FeatureExtractor {
 public:
